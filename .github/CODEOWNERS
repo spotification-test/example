@@ -1,3 +1,4 @@
 directory-team-single-person @spotification-test/team-single-person
 directory-team-multi @spotification-test/team-multi
 directory-both @spotification-test/team-single-person @spotification-test/team-multi
+directory-secret @spotification-test/team-secret
